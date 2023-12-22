@@ -6,6 +6,9 @@ This project is part of a cloud computing course
 
 In this repo we define two **Docker** containers : **frontend** and **backend**. Our frontend is on **ReactJS** and our **backend** is on **NodeJS**, which connects to **CosmosDB** that uses **MongoDB** as a database. These containers will be deployed to **kubernetes**.
 
+## App architecture
+
+![Alt text](screenshots/architecture.png)
 
 ## GuideLine Steps
 
