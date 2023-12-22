@@ -10,7 +10,7 @@
 
 ### Deploy a Web App :
 
-![](screenshots/)
+![](screenshots/app%20deployment.png)
 
 ### Create a SQL Database :
 
@@ -31,16 +31,14 @@
 ### Set Up a Networking ressource :
 
 ![](screenshots/network%20resource.png)
+![](screenshots/Budget_alert.png)
 
 ### Configure Monitoring and Logging :
 
 ![](screenshots/Budget%20alert.png)
 
-Implement Azure Identity by creating a simple dev role :
 
-
-
-Create a personalized Resource Group :
+### Create a personalized Resource Group :
 
 ![](screenshots/resource%20group.png)
 
